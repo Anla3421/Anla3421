@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anla3421&layout=compact)
+
 <!--
 **Anla3421/anla3421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
